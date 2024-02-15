@@ -10,7 +10,7 @@ using Mission06_Jergensen.Models;
 namespace Mission06_Jergensen.Migrations
 {
     [DbContext(typeof(MovieApplicationContext))]
-    [Migration("20240215221629_Initial")]
+    [Migration("20240215235334_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
